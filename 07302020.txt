@@ -1,0 +1,32 @@
+Welcome to bitlabs, unique program tailored to make students job ready.
+What brings you to bilabs today?
+
+Help me get job ready - Glad to hear that! We are here to help you get job ready. We recommend you to speak to our student advisor to create your career success plan.
+
+
+Got it! Thanks for entering your email address. Hang on! Our counselor will connect with you in a bit...
+
+
+Need more information - I'm happy to share more information about how we can get you job ready. Before I connect you to a student advisor I need bit more information.
+
+
+Which of the following apply to you 
+I'm a b.tech Student
+I'm a graduate
+I'm a professional
+Other
+
+Name, email, phone, college, branch - Other
+
+Yes/No - What your current qualification
+
+Just Browsing - That's great let me know if you have any questions.I will be right here
+
+Other - 
+
+
+
+response.put ("action", "forward"); 
+response.put ("replies", {"Let me transfer you to one of our campaign specialists."}); 
+return; 
+
